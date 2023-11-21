@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background: white;
+
+    background-size: cover;
+    flex-direction: column;
+    justify-content: flex-start;
+
+  }
+
+#logo{
+    width: 80px;
+    height: auto;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+.main-page
+{
+    
+}
+
+.lead-line{
+    margin-top: 10vh;
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+    font-size: 60px;
+    font-weight: 900;
+    padding-left: 2rem;
+
+}
+
+.tag-line{
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+    font-size: 30px;
+    font-weight: 300;
+    padding-left: 2rem;
+    padding-top: 3rem;    
+}
+
+.start-here{
+    position: absolute;
+    bottom: 65px;
+    right: 125px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+}
