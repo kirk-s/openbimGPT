@@ -35,18 +35,29 @@ body {
 .tag-line{
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 300;
     padding-left: 2rem;
-    padding-top: 3rem;    
+    padding-top: 6rem; 
+    padding-bottom: 3rem;   
+}
+
+#chatgpt{
+    height: 40px;
+    width: auto;
+}
+
+#schematk{
+    height: 40px;
+    width: auto;
 }
 
 .start-here{
     position: absolute;
-    bottom: 65px;
+    bottom: 55px;
     right: 125px;
     font-family: 'Raleway', sans-serif;
     color: #fff;
     font-weight: 900;
-    font-size: 25px;
+    font-size: 50px;
 }
