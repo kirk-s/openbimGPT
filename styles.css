@@ -36,7 +36,7 @@ body {
 .tag-line{
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 300;
     padding-left: 2rem;
     padding-top: 6rem; 
@@ -46,13 +46,13 @@ body {
 }
 
 #chatgpt{
-    height: 10px;
+    height: 15px;
     width: auto;
     transform: translateY(2px);
 }
 
 #schematk{
-    height: 10px;
+    height: 15px;
     width: auto;
     transform: translateY(2px);
 }
