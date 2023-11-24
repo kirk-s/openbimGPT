@@ -38,8 +38,8 @@ body {
     color: #fff;
     font-size: 15px;
     font-weight: 300;
-    padding-left: 2rem;
-    padding-top: 6rem; 
+    padding-left: 1rem;
+   
   
     position: absolute; 
     bottom: 1rem;
@@ -57,10 +57,19 @@ body {
     transform: translateY(2px);
 }
 
+#donate-image{
+    padding-left: 2rem;
+    height: auto;
+    width: 150px;
+    position: absolute;
+    bottom: 1rem;
+    right: 2rem;
+}
+
 .start-here{
     position: absolute;
-    bottom: 65px;
-    right: 125px;
+    bottom: 85px;
+    right: 100px;
     font-family: 'Raleway', sans-serif;
     color: #fff;
     font-weight: 900;
