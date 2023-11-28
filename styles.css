@@ -75,3 +75,14 @@ body {
     font-weight: 900;
     font-size: 25px;
 }
+
+#downtime{
+    margin-top: 10vh;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
