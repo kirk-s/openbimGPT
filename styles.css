@@ -33,6 +33,15 @@ body {
 
 }
 
+.sponsor-line{
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+
 .tag-line{
     font-family: 'Raleway', sans-serif;
     color: #fff;
@@ -45,6 +54,20 @@ body {
     bottom: 1rem;
 }
 
+#epic-logo{
+    height: 50px;
+    width: auto;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+#bim8-logo{
+    height: 40px;
+    width: auto;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
 #chatgpt{
     height: 15px;
     width: auto;
@@ -52,9 +75,9 @@ body {
 }
 
 #schematk{
-    height: 15px;
+    height: 20px;
     width: auto;
-    transform: translateY(2px);
+    transform: translateY(4px);
 }
 
 #donate-image{
